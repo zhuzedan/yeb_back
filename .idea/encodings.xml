@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yeb_generate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yeb_generator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yeb_server/src/main/java" charset="UTF-8" />
+    <file url="file://E:/javaee/repository/org/springframework/boot/spring-boot-starter-parent/2.7.3/src/main/resources" charset="UTF-8" />
   </component>
 </project>
